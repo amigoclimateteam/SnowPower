@@ -19,3 +19,6 @@ The dataset spans over the melting seasons (April-September) of 2017-2020. The v
 
 To execute this Case Study, please use the Jupyter Notebook *Asset2_casestudy.ipynb*.
 To run the Jupyter Notebook some packages are required. Using a dedicated virtual environment is kindly suggested.
+
+### License
+Creative Commons Attribution 4.0 International License
